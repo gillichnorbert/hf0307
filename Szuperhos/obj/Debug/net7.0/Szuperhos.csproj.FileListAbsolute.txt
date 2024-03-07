@@ -1,0 +1,12 @@
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/bin/Debug/net7.0/Szuperhos.deps.json
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/bin/Debug/net7.0/Szuperhos.dll
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/bin/Debug/net7.0/Szuperhos.pdb
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.csproj.AssemblyReference.cache
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.AssemblyInfoInputs.cache
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.AssemblyInfo.cs
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.csproj.CoreCompileInputs.cache
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.dll
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/refint/Szuperhos.dll
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/Szuperhos.pdb
+/Users/gillichnorbert/Projects/Szuper/Szuperhos/obj/Debug/net7.0/ref/Szuperhos.dll
